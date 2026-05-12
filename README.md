@@ -137,7 +137,9 @@ learning_path = {
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SAFARKHAN-S&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=SAFARKHAN-S&hide_border=true&mode=weekly&theme=tokyonight" height="150"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAFARKHAN-S&theme=tokyo_night" />
 </p>
 
 ---
