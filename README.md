@@ -144,7 +144,7 @@ learning_path = {
 ---
 
 <p align="center">
-  <i>Open to Data Analyst and Analytics Engineer opportunities in Bangalore.</i><br/>
+  <i>Open to Data Analyst and Analytics Engineer opportunities.</i><br/>
   <a href="mailto:safar7khan@gmail.com">safar7khan@gmail.com</a> · 
   <a href="https://linkedin.com/in/safarkhans">LinkedIn</a>
 </p>
