@@ -137,9 +137,8 @@ learning_path = {
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SAFARKHAN-S&hide_border=true&mode=weekly&theme=tokyonight" height="150"/>
-  &nbsp;
-  <img src="https://github-stats.as93.net/SAFARKHAN-S.svg" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=SAFARKHAN-S&hide_border=true&theme=tokyonight" width="49%"/>
+  <img src="https://streak-stats.demolab.com?user=SAFARKHAN-S&hide_border=true&theme=tokyonight&mode=weekly" width="49%"/>
 </p>
 
 ---
