@@ -26,7 +26,7 @@ I'm a **Data Analyst with 2+ years of experience** turning raw data into decisio
 - 🏗️ **Right now:** Building advanced SQL, A/B testing, and product analytics skills for top-tier DA roles
 - 🎯 **Goal:** Analytics Engineer at a product-led tech company
 - 💡 **What I bring:** The rare combo of engineering depth (PySpark, ETL, Lakehouse) + business storytelling
-- 📍 **Open to:** Mid/Senior DA roles in Bangalore (on-site or hybrid)
+- 📍 **Open to:** Mid/Senior DA roles  (on-site or hybrid)
 
 ---
 
